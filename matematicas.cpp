@@ -44,11 +44,11 @@ int main() {
 
     // Multiplicación
     double resultadoMultiplicacion = Matematicas::multiplicacion(num1, num2);
-    std::cout << "La multiplicación de " << num1 << " y " << num2 << " es: " << resultadoMultiplicacion << std::endl;
+    std::cout << "La multiplicacion de " << num1 << " y " << num2 << " es: " << resultadoMultiplicacion << std::endl;
 
     // División
     double resultadoDivision = Matematicas::division(num1, num2);
-    std::cout << "La división de " << num1 << " y " << num2 << " es: " << resultadoDivision << std::endl;
+    std::cout << "La division de " << num1 << " y " << num2 << " es: " << resultadoDivision << std::endl;
 
     return 0;
 }
